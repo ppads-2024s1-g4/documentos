@@ -1,4 +1,5 @@
 # Definição de Arquitetura 
+![diagrama implementacao](https://github.com/ppads-2024s1-g4/documentos/assets/64978999/2436094f-7a4a-410f-af7b-8c9efca96864)
 ## Componentes:
 - Cliente Web: Interface web e mobile para os usuários interagirem com o sistema.
 - API Spring Boot: API RESTful que fornece acesso aos dados e funcionalidades da rede social.
